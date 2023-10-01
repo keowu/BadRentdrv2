@@ -39,3 +39,10 @@ Note: In this proof of concept, I have only programmed it to terminate the proce
 #### Windows Defender
 
 ![Windows Defender teste](imgs/teste_poc_windows_defender_antivirus.gif)
+
+## Driver Hash
+
+I published the vulnerability because I was unable to contact the developer company to report it
+
+rentdrv2_x32 - 1aed62a63b4802e599bbd33162319129501d603cceeb5e1eb22fd4733b3018a3
+rentdrv2_x64 - 9165d4f3036919a96b86d24b64d75d692802c7513f2b3054b20be40c212240a5
