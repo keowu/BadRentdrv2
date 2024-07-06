@@ -50,7 +50,7 @@ I published the vulnerability because I was unable to contact the developer comp
 - Notified to Mitre about the lack of contact with the company and CVE issued to attempt contact.
 - Contact #3 (Sent a last e-mail with the CVE number, with 14-days to response).
 - Published(Without response).
-- Some idiots from APT used it into malware's(on the same day i published) - Explained with a very cool article by Unit42-Team(and their team have my respect because investigate and appoint it as a vulnerabilty on the driver too).
+- Some idiots from APT used it into malware's(on the same day i published) - Explained with a very cool article by [Unit42-Team](https://unit42.paloaltonetworks.com/agonizing-serpens-targets-israeli-tech-higher-ed-sectors/)(and their team have my respect because investigate and appoint it as a vulnerabilty on the driver too).
 - An notification was sent to Microsoft's threat intelligence team.
 - Microsoft send back an email thanking about the report.
 - Driver and Company Account got blocked by Microsoft Threat Intelligence Team.
