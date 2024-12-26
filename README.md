@@ -56,6 +56,7 @@ I published the vulnerability because I was unable to contact the developer comp
 - Driver and Company Account got blocked by Microsoft Threat Intelligence Team.
 - Published on the "Microsoft recommended driver block rules".
 - I didn't publish the CVE because the company didn't respond me and not like to force publication.
+- (24/12/2024) I received contact from the developer responsible for the driver, who assured me that the vulnerability has been properly fixed. This thus concludes the responsible public disclosure process.
 
 rentdrv2_x32 - 1aed62a63b4802e599bbd33162319129501d603cceeb5e1eb22fd4733b3018a3
 
